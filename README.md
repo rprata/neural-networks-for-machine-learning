@@ -1,5 +1,4 @@
-# neural-networks-for-machine-learning
-Neural Networks for Machine Learning course answers.
+# Neural Networks for Machine Learning
 
 **About this course:** Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.
 
