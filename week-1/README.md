@@ -1,4 +1,4 @@
-# QUIZ - Week 1
+# Answers
 
 ###### 1. We often don't know how much data we will need in order for a learning system to generalize well from training data to test data on a given task.
 ###### True or false: when choosing how much data to give to a learning system in order to make it generalize well, we need to make sure that we don't give it too much data.
