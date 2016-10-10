@@ -25,15 +25,15 @@ B - It is impossible.
 
 ###### 3. Suppose we are given three data points...
 
-A: $\sqrt[2]{2}$
+**A: sqrt(2)**
 
 ###### 4. Suppose that we have a perceptron with weight vector w and we create a new set of weights w∗=cw by scaling w by some positive constant c. 
 
-A: False
+**A: False**
 
 ###### 5. Suppose that we have a perceptron with weight vector w and we create a new set of weights w∗=w+c by adding some constant vector c to w. Assume that the bias is zero.
 
-A: True
+**A: True**
 
 ###### 6. Suppose we are given four training cases:...
 
