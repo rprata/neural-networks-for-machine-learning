@@ -4,11 +4,11 @@
 
 **A - Logistic sigmoid**
 
-**B - Linear**
+B - Linear
 
 **C - Binary threshould**
 
-D - Linear threshold
+**D - Linear threshold**
 
 
 ###### 2. After learning using the Perceptron algorithm, how easy is it to express the learned weight vector in terms of the input vectors and the initial weight vector? Assume the input vectors have real-valued components.
